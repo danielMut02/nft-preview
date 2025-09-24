@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/danielMut02/nft-preview)
-- Live Site URL: [Add live site URL here](https://danielmut02.github.io/nft-preview/)
+- Solution URL: [GitHub repo](https://github.com/danielMut02/nft-preview)
+- Live Site URL: [Live Site](https://danielmut02.github.io/nft-preview/)
 
 ## My process
 
